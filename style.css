@@ -3,7 +3,7 @@ body{
 }
 
 #myapp{
-  background-image: linear-gradient(rgb(255, 255, 255),rgb(226, 199, 199));
+  background-image: linear-gradient(rgba(172, 172, 172, 0.822),rgb(226, 199, 199));
   opacity: 0.70;
   height: auto; /* Change height to auto to adjust to content */
   width: 90%; /* Change width to 90% to fit smaller screens */
